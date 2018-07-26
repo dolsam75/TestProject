@@ -6,5 +6,7 @@ public class Board {
 	private String title;
 	private String contents;
 	private String regdate;
+	private int hitcount;
+
 
 }
